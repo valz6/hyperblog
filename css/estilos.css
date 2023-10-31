@@ -41,10 +41,12 @@ vertical-align: middle;
 
 #post{
     background: white;
-    padding: 1em;
-#footer{
-    background: #777;
+    padding: 1em; 
+}
+#footer {
+    background: #525252;
     color: white;
     text-align: center;
     padding: 0.5em;
+   
 }
